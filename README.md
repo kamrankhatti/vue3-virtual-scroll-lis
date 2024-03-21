@@ -1,6 +1,6 @@
 # vue3-virtual-scroll-list
 
-⚡️A vue3 lazy virtual scroll component ideal for large amount of data. Forked from https://github.com/gzliudan/vue3-virtual-scroll-list.
+⚡️A vue3 lazy load virtual scroll component ideal for large amount of data cloned from https://github.com/reactjser/vue3-virtual-scroll-list
 
 ## Live Demo
 
